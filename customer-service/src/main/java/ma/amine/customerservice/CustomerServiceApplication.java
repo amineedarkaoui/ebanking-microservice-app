@@ -1,13 +1,13 @@
-package ma.amine.ebankmicroserviceapp;
+package ma.amine.customerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EbankMicroserviceAppApplication {
+public class CustomerServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EbankMicroserviceAppApplication.class, args);
+        SpringApplication.run(CustomerServiceApplication.class, args);
     }
 
 }

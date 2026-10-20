@@ -1,10 +1,10 @@
-package ma.amine.ebankmicroserviceapp;
+package ma.amine.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EbankMicroserviceAppApplicationTests {
+class CustomerServiceApplicationTests {
 
     @Test
     void contextLoads() {
